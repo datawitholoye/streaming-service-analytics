@@ -73,7 +73,7 @@ For churn, the story flips. Random Forest’s ability to capture feature interac
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/streaming-service-analytics.git
+git clone https://github.com/datawitholoye/streaming-service-analytics.git
 cd streaming-service-analytics
 
 # Install dependencies
